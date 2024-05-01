@@ -17,7 +17,7 @@ I'm a self-motivated software engineer with over 4 years of experience, speciali
 
 ## Let's Connect
 
-Feel free to connect with me on [LinkedIn]([your LinkedIn profile UR](https://www.linkedin.com/in/arthshah/)L) to stay updated on my latest projects and endeavors. I'm always open to new opportunities and collaborations!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arthshah/) to stay updated on my latest projects and endeavors. I'm always open to new opportunities and collaborations!
 
 ## Get in Touch
 
