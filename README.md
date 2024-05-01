@@ -19,12 +19,6 @@ I'm a self-motivated software engineer with over 4 years of experience, speciali
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arthshah/) to stay updated on my latest projects and endeavors. I'm always open to new opportunities and collaborations!
 
-## Get in Touch
-
-- [LinkedIn](your LinkedIn profile URL)
-- [Twitter](your Twitter profile URL)
-- [Website/Blog](if you have one)
-- [Email](your email address)
 
 Looking forward to connecting with you!
 
