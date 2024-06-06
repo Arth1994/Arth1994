@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Arth, a passionate software engineer with over 4 years of experience in building scalable and innovative software solutions. Here's a bit about me:
+Welcome to my GitHub profile! I'm Arth, a passionate software engineer with 5 years of experience in building scalable and innovative software solutions. Here's a bit about me:
 
 ## About Me
 
