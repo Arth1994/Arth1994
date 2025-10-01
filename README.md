@@ -32,7 +32,40 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 **Cloud & DevOps:** AWS (S3, EC2, API Gateway, SQS), Azure, Firebase, Docker  
 **Databases:** MySQL, MongoDB, PostgreSQL, ElasticSearch, Redis  
 **AI/ML:** Google Gemini AI, Machine Learning, Recommendation Systems  
-**Tools:** Git, Jenkins, Jira, Gradle, Maven, Kubernetes  
+**Tools:** Git, Jenkins, Jira, Gradle, Maven, Kubernetes
+
+### 🚀 **Recent Project Skills (Floofie AI Travel Planner):**
+**Tech Stack:** Python - Next.js - Firebase - Gemini AI - TypeScript - Tailwind CSS - Google APIs
+
+**AI & Machine Learning:**
+- **Gemini 2.0 Flash API** - Real-time AI itinerary generation with structured prompts
+- **Machine Learning Pipeline** - User behavior tracking and collaborative filtering
+- **JSON Schema Validation** - Ensuring consistent AI responses and handling hallucinations
+- **Prompt Engineering** - Few-shot learning with examples and constraints
+
+**Modern Web Development:**
+- **Next.js 15** - App Router, SSR, static generation, and API routes
+- **React 18** - Functional components, hooks, and performance optimization
+- **TypeScript** - Type-safe development with comprehensive interfaces
+- **Tailwind CSS** - Mobile-first responsive design and utility-first styling
+
+**Cloud & Backend:**
+- **Firebase Firestore** - NoSQL database with real-time synchronization
+- **Firebase Authentication** - Google Sign-In and user management
+- **Firebase Cloud Functions** - Server-side ML training and recommendation APIs
+- **Firebase Hosting** - Production deployment with CI/CD
+
+**APIs & Integrations:**
+- **Google Maps API** - Location services and mapping integration
+- **Google Calendar API** - Event creation and synchronization
+- **Google Places API** - Real-time place data and recommendations
+- **RESTful APIs** - Microservices architecture and API design
+
+**Data & Analytics:**
+- **Real-time Data Processing** - User behavior tracking and analytics
+- **Collaborative Filtering** - ML recommendation algorithms
+- **Rate Limiting** - Client-side and server-side request optimization
+- **Error Handling** - Comprehensive error recovery and user experience  
 
 ## 🎯 **Key Achievements**
 
